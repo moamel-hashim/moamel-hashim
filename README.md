@@ -10,11 +10,11 @@ I use to fly drones now im hacking into the main frame :sunglasses:
 ```js 
 const whoAmI = {
 name: 'Moamel Hashim',
-hobbies: [ music, gaming, youtube, soccer],
+hobbies: [ 'music', 'gaming', 'youtube', 'soccer'],
 occupation: 'web developer',
 age: 25,
 thingsIdo: function() {
-  return wake up + code + game + eat;
+  return 'wake up' + 'code' + 'game' + 'eat';
   }
 ```
 ### Technologies & Tools
