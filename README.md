@@ -25,7 +25,7 @@ thingsIdo: function() {
 ![npm-svgrepo-com](https://user-images.githubusercontent.com/90476994/179879455-b64e6946-90e6-4477-9832-b378d4e3de66.svg)
 ![node-js-svgrepo-com](https://user-images.githubusercontent.com/90476994/179879475-0433a46b-fa29-4d5f-89ee-0cad24fe36e4.svg)
 ![html-svgrepo-com](https://user-images.githubusercontent.com/90476994/179879480-8a3fd44a-56df-4b0c-8758-08c284dd08bb.svg)
-![react-svgrepo-com (1)](https://user-images.githubusercontent.com/90476994/179881022-f8248de9-6ffd-4291-85f7-3c0f6d6d81c1.svg)
+![reactjs-svgrepo-com](https://user-images.githubusercontent.com/90476994/179881245-46e07671-4a8d-4a9c-b08c-adb2ac44b2f1.svg)
 ![babel-svgrepo-com (1)](https://user-images.githubusercontent.com/90476994/179881024-72144cfd-bb0e-414d-b77c-7e16a29e0e7e.svg)
 ![webpack-svgrepo-com (1)](https://user-images.githubusercontent.com/90476994/179881025-ac2e8702-4bd7-4165-a0b4-41d54c9c981c.svg)
 ![pgsql-svgrepo-com (1)](https://user-images.githubusercontent.com/90476994/179881076-cfaf92de-b2a3-462c-9530-f09a1aeed71b.svg)
@@ -35,5 +35,5 @@ thingsIdo: function() {
 - 🌱 I’m currently learning three.js
 
 ## Let's Connect
-![linkedin-svgrepo-com](https://user-images.githubusercontent.com/90476994/179879853-c0deedb4-be78-4421-bab3-46b88534a892.svg)[https://www.linkedin.com/in/moamelhashim/]
-![discord-v2-svgrepo-com](https://user-images.githubusercontent.com/90476994/179879854-ffe65c4e-aeb8-42e0-85ae-88c8e641308e.svg)[https://discord.com/channels/@me]
+![https://www.linkedin.com/in/moamelhashim/](https://user-images.githubusercontent.com/90476994/179881578-40dd40ac-c6e2-4fad-8998-477bdc49abc9.svg)
+![https://discord.com/channels/@me](https://user-images.githubusercontent.com/90476994/179882152-507fa726-c246-436a-a935-923975703db6.svg)
