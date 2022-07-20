@@ -35,5 +35,5 @@ thingsIdo: function() {
 - 🌱 I’m currently learning three.js
 
 ## Let's Connect
-![https://www.linkedin.com/in/moamelhashim/](https://user-images.githubusercontent.com/90476994/179881578-40dd40ac-c6e2-4fad-8998-477bdc49abc9.svg)
-![https://discord.com/channels/@me](https://user-images.githubusercontent.com/90476994/179882152-507fa726-c246-436a-a935-923975703db6.svg)
+![https://www.linkedin.com/in/moamelhashim/](https://www.linkedin.com/in/moamelhashim/90476994/179881578-40dd40ac-c6e2-4fad-8998-477bdc49abc9.svg)
+![https://discord.com/channels/@me](https://discord.com/channels/@me/90476994/179882152-507fa726-c246-436a-a935-923975703db6.svg)
