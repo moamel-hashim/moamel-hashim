@@ -25,6 +25,10 @@ thingsIdo: function() {
 ![npm-svgrepo-com](https://user-images.githubusercontent.com/90476994/179879455-b64e6946-90e6-4477-9832-b378d4e3de66.svg)
 ![node-js-svgrepo-com](https://user-images.githubusercontent.com/90476994/179879475-0433a46b-fa29-4d5f-89ee-0cad24fe36e4.svg)
 ![html-svgrepo-com](https://user-images.githubusercontent.com/90476994/179879480-8a3fd44a-56df-4b0c-8758-08c284dd08bb.svg)
+![react-svgrepo-com (1)](https://user-images.githubusercontent.com/90476994/179881022-f8248de9-6ffd-4291-85f7-3c0f6d6d81c1.svg)
+![babel-svgrepo-com (1)](https://user-images.githubusercontent.com/90476994/179881024-72144cfd-bb0e-414d-b77c-7e16a29e0e7e.svg)
+![webpack-svgrepo-com (1)](https://user-images.githubusercontent.com/90476994/179881025-ac2e8702-4bd7-4165-a0b4-41d54c9c981c.svg)
+![pgsql-svgrepo-com (1)](https://user-images.githubusercontent.com/90476994/179881076-cfaf92de-b2a3-462c-9530-f09a1aeed71b.svg)
 
 ## Currently Working on
 - 🔭 I’m currently working on updating Travel-Guide and adding some new features
