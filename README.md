@@ -38,5 +38,3 @@ thingsIdo: function() {
 
 [![linkedin-logo-svgrepo-com](https://user-images.githubusercontent.com/90476994/179892179-78e42808-fefb-4579-9479-bf5f0e38a501.svg)](https://www.linkedin.com/in/moamelhashim/)
 
-[![discord-icon-svgrepo-com](https://user-images.githubusercontent.com/90476994/179882882-5f8fd435-c0f8-4ece-84e6-7bb9cbe66b55.svg)](https://discord.com/channels/@me)
-
