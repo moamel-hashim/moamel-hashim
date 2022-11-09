@@ -9,13 +9,14 @@ I use to fly drones now im hacking into the main frame :sunglasses:
 ## 🏄‍♂️ About me
 ```js 
 const whoAmI = {
-name: 'Moamel Hashim',
-hobbies: [ 'music', 'gaming', 'youtube', 'soccer'],
-occupation: 'web developer',
-age: 25,
-thingsIdo: function() {
-  return 'wake up' + 'code' + 'game' + 'eat';
-  }
+ name: 'Moamel Hashim',
+ hobbies: [ 'music', 'gaming', 'youtube', 'soccer'],
+ occupation: 'web developer',
+ age: 25,
+ thingsIdo: function() {
+   return 'wake up' + 'code' + 'game' + 'eat';
+   }
+}
 ```
 ### Technologies & Tools
 ![css-svgrepo-com](https://user-images.githubusercontent.com/90476994/179878981-fdf460ae-c00b-4a10-ad62-baa692cf3894.svg)
