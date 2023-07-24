@@ -12,7 +12,7 @@ const whoAmI = {
  name: 'Moamel Hashim',
  hobbies: [ 'music', 'gaming', 'youtube', 'soccer'],
  occupation: 'web developer',
- age: 25,
+ age: 26,
  thingsIdo: function() {
    return 'wake up' + 'code' + 'game' + 'eat';
    }
