@@ -1,7 +1,7 @@
 # Hi there 👋
 
 My name is Moamel Hashim and Im a former drone pilot operator
-I use to fly drones now im hacking into the main frame :sunglasses:
+I use to fly drones now I love coding and learning more about how to develop websites. The thing that I like most about being a developer is that you never stop learning :sunglasses:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moamel-hashim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
