@@ -14,7 +14,7 @@ const whoAmI = {
  occupation: 'web developer',
  age: 26,
  thingsIdo: function() {
-   return 'wake up' + 'code' + 'game' + 'eat';
+   return `wake up, code, game, eat, and sleep`;
    }
 }
 ```
