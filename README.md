@@ -10,7 +10,7 @@ I use to fly drones now I love coding and learning more about how to develop web
 ```js 
 const whoAmI = {
  name: 'Moamel Hashim',
- hobbies: [ 'music', 'gaming', 'youtube', 'soccer'],
+ hobbies: [ 'music', 'gaming', 'youtube', 'soccer', 'building custom keyboards],
  occupation: 'web developer',
  age: 26,
  thingsIdo: function() {
