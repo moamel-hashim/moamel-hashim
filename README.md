@@ -34,6 +34,8 @@ const whoAmI = {
 ## Currently Working on
 - 🔭 I’m currently working on updating Travel-Guide and adding some new features
 - 🌱 I’m currently learning three.js
+- 🐱‍🏍 I'm in the process of further developing my education and earning a degree in web development
+- 🐱‍👓 I'm learning PHP and trying to develop a website using PHP and MySQL
 
 ## Let's Connect
 
